@@ -1,4 +1,6 @@
-# 📝 Go RESTful Todo List API with JWT Authentication
+# Go RESTful Todo List API with JWT Authentication
+
+<img width="1833" height="780" alt="todo-list-api-bsrdd" src="https://github.com/user-attachments/assets/b238b0b4-b61f-40ae-b006-5b7b08c523e9" />
 
 This project implements a secure, robust, and fully functional RESTful API for managing a user's to-do list, built with **Go (Golang)**, the **Gin framework**, and **PostgreSQL** via the **GORM** ORM.
 
@@ -15,7 +17,7 @@ It emphasizes best practices, including user authentication with JWT, secure pas
 
 ***
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 Before running the project, you must have the following installed:
 
@@ -25,7 +27,7 @@ Before running the project, you must have the following installed:
 
 ***
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
